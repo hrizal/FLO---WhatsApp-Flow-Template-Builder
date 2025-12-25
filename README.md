@@ -1,4 +1,4 @@
-# FLO - Modern WhatsApp Flow Designer
+# FLO - Visual WhatsApp Flow Designer
 
 ![FLO Preview](hero-preview.png)
 
